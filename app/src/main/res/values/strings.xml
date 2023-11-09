@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestTaskResanta</string>
+
+    <string name="marker_type_prompt">Выберите тип метки</string>
+    <array name="marker_types">
+        <item>Точка</item>
+        <item>Техника</item>
+        <item>Человек</item>
+    </array>
+
+</resources>
